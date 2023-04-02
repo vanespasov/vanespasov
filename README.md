@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanespasov
 - 👀 I’m interested in .net, system architecture, clean code
-- 🌱 I’m currently learning "Fundamentals of Software Architecture"
+- 🌱 I’m constantly learning about Software Architecture
 - 💞️ I’m looking to collaborate on .net projects
 - 📫 How to reach me vane.spasov@gmail.com, linkedin
 
