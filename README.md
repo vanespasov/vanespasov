@@ -1,6 +1,6 @@
 # Vane Spasov
 
-I help product teams modernize a live .NET system — WCF, ORM, SQL Server — into event-driven services, without a rewrite.
+I help product teams modernize a live .NET system — WCF, SQL Server, any ORM — into event-driven services, without a rewrite.
 
 Principal Software Developer at RLDatix, in Skopje.
 [LinkedIn](https://www.linkedin.com/in/vanespasov/)
