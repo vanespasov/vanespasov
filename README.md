@@ -14,3 +14,4 @@ Principal Software Developer at RLDatix, in Skopje.
 ## Fast Geography
 
 A Blazor version of the paper game брза географија: one letter, then a city, village, country, river, and mountain against a timer.
+Play: https://fastgeography.fly.dev/fastgeography
