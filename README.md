@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @vanespasov
-- 👀 I’m interested in .net, system architecture, clean code
-- 🌱 I’m constantly learning about Software Architecture
-- 💞️ I’m looking to collaborate on .net projects
-- 📫 How to reach me vane.spasov@gmail.com, [LinkedIn](https://www.linkedin.com/in/vanespasov/)
+# Vane Spasov
 
-<!---
-vanespasov/vanespasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I help product teams modernize a live .NET system — WCF, NHibernate, SQL Server — into event-driven services, without a rewrite.
+
+Principal Software Developer at RLDatix, in Skopje.
+[LinkedIn](https://www.linkedin.com/in/vanespasov/)
+
+## Selected work
+
+- **Insurance.** Policy-lifecycle services on .NET, with Kafka, MartenDB, the outbox pattern, and Azure.
+- **Payments.** Dev lead for merchant onboarding, card-present and card-not-present terminals, KYC, and gateway integration for US, UK, and Canada. Designs taken to an architecture review board.
+- **Logistics.** A long-lived transport platform, EDI and IATA parsers, and the delivery pipeline around them.
+
+## Fast Geography
+
+A Blazor version of the paper game брза географија: one letter, then a city, village, country, river, and mountain against a timer.
