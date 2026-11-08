@@ -1,6 +1,6 @@
 # Vane Spasov
 
-I help product teams modernize a live .NET system — WCF, NHibernate, SQL Server, any legacy system — into event-driven services, without a rewrite.
+I help product teams modernize a live .NET system — WCF, NHibernate, SQL Server — into event-driven services, without a rewrite.
 
 Principal Software Developer at RLDatix, in Skopje.
 [LinkedIn](https://www.linkedin.com/in/vanespasov/)
@@ -14,5 +14,3 @@ Principal Software Developer at RLDatix, in Skopje.
 ## Fast Geography
 
 A Blazor version of the paper game брза географија: one letter, then a city, village, country, river, and mountain against a timer.
-**Play:** [Fast Geography](https://fastgeography.fly.dev/fastgeography)
-
